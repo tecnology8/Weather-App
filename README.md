@@ -9,3 +9,8 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+
+
+# API USADA
+- Open Weather Map : https://api.openweathermap.org/data/2.5/weather 
