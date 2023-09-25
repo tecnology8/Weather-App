@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App Project
 
 [![1.png](https://i.postimg.cc/mDH67wdY/1.png)](https://postimg.cc/vgGzsWwT)
 
